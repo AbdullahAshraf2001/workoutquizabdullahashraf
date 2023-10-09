@@ -1,0 +1,29 @@
+abstract class AppAssets {
+  static const baseImagesPath = "assets/images/";
+  static const icTree = "${baseImagesPath}logo.png";
+  static const icLove = "${baseImagesPath}love.png";
+  static const icCool = "${baseImagesPath}cool.png";
+  static const icHappy = "${baseImagesPath}happy.png";
+  static const icSad = "${baseImagesPath}sad.png";
+  static const icCalendar = "${baseImagesPath}calendar.png";
+  static const icGrid = "${baseImagesPath}grid-01.png";
+  static const icUser = "${baseImagesPath}user-03.png";
+  static const icHome = "${baseImagesPath}home-05.png";
+  static const icHead = "${baseImagesPath}Frame.png";
+  static const icDog = "${baseImagesPath}Walking the Dog.png";
+  static const icPlay = "${baseImagesPath}_Play button.png";
+  static const icRelax = "${baseImagesPath}Relax.png";
+  static const icBreath = "${baseImagesPath}Breath.png";
+  static const icYoga = "${baseImagesPath}Yoga.png";
+  static const icGirl = "${baseImagesPath}icgirl.png";
+  static const icFlame = "${baseImagesPath}Flame.png";
+  static const icList = "${baseImagesPath}list.png";
+  static const icHeart = "${baseImagesPath}heart.png";
+  static const icClock = "${baseImagesPath}clock.png";
+  static const icYogaPic = "${baseImagesPath}yogaPic.png";
+  static const icPlank = "${baseImagesPath}plankPic.png";
+  static const icFlower = "${baseImagesPath}flower.png";
+  static const icDoctor = "${baseImagesPath}Doctor.png";
+  static const icGirlPicture = "${baseImagesPath}girlPicture.png";
+  static const icGirlImage = "${baseImagesPath}girlImage.png";
+}
